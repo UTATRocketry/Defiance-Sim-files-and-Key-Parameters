@@ -27,13 +27,13 @@
       <Overhang>0</Overhang>
       <Fin>
         <Count>3</Count>
-        <Chord>16.06</Chord>
-        <Span>4.49</Span>
-        <SweepDistance>3.71</SweepDistance>
-        <TipChord>8.26</TipChord>
-        <Thickness>0.13</Thickness>
+        <Chord>15.75</Chord>
+        <Span>4.53</Span>
+        <SweepDistance>3.94</SweepDistance>
+        <TipChord>7.87</TipChord>
+        <Thickness>0.28</Thickness>
         <LERadius>0.5</LERadius>
-        <Location>17</Location>
+        <Location>17.75</Location>
         <AirfoilSection>Hexagonal</AirfoilSection>
         <FX1>0.5</FX1>
         <FX3>0.5</FX3>
